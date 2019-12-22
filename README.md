@@ -1,1 +1,1 @@
-# codes.javaea
+# Codes for Java EA(CJ002)
